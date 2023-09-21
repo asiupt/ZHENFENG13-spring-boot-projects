@@ -33,172 +33,176 @@ The actual project source code has been upgraded to Spring Boot 3.x version. The
 
 ---
 
-#### Spring Boot 实战项目源码
+#### Spring Boot practical project source code
 
-- [前后端分离项目](./SpringBoot前后端分离实战项目源码/spring-boot-project-front-end&back-end)
-- [咨询发布项目](./SpringBoot咨询发布系统实战项目源码/springboot-project-news-publish-system)
-- [博客系统](https://github.com/ZHENFENG13/My-Blog)
-- [BBS 论坛系统](https://github.com/ZHENFENG13/My-BBS)
-- [仿知乎专栏项目](https://github.com/ZHENFENG13/My-Column)
-- [Spring Boot + layui 实现的后台管理系统](https://github.com/ZHENFENG13/My-Blog-layui)
-- [Spring Boot 大型商城项目](https://github.com/newbee-ltd/newbee-mall)
-- [Spring Boot + Vue 前后端分离商城项目](https://github.com/newbee-ltd/newbee-mall-vue-app)
-- [Spring Boot + Vue3 前后端分离商城项目](https://github.com/newbee-ltd/newbee-mall-vue3-app)
+- [Front-end and back-end separation projects](./SpringBoot前后端分离实战项目源码/spring-boot-project-front-end&back-end)
+- [Consulting release project](./SpringBoot咨询发布系统实战项目源码/springboot-project-news-publish-system)
+- [Blog system](https://github.com/ZHENFENG13/My-Blog)
+- [BBS forum system](https://github.com/ZHENFENG13/My-BBS)
+- [Imitation Zhihu column project](https://github.com/ZHENFENG13/My-Column)
+- [Backend management system implemented by Spring Boot + layui](https://github.com/ZHENFENG13/My-Blog-layui)
+- [Spring Boot large mall project](https://github.com/newbee-ltd/newbee-mall)
+- [Spring Boot + Vue front-end and back-end separation mall project](https://github.com/newbee-ltd/newbee-mall-vue-app)
+- [Spring Boot + Vue3 front-end and back-end separation mall project](https://github.com/newbee-ltd/newbee-mall-vue3-app)
 
 ---
 
-## Spring Boot 基础使用案例
+## Spring Boot basic use cases
 
-**示例代码**
+**Sample code**
 
-- [spring-boot-hello](./SpringBoot入门案例源码/spring-boot-helloworld)：Spring Boot 第一个案例代码
-- [spring-boot-logging](./玩转SpringBoot系列案例源码/spring-boot-logging)：Spring Boot 基础开发之日志输出案例
-- [spring-boot-test](./玩转SpringBoot系列案例源码/spring-boot-test)：Spring Boot 基础开发之单元测试案例
-- [spring-boot-static-resources](./SpringBoot入门案例源码/spring-boot-static-resources)：Spring Boot 基础开发之静态资源处理案例
-- [spring-boot-ajax](./SpringBoot入门案例源码/spring-boot-ajax)：Spring Boot 项目实践之 Ajax 技术使用教程
-- [spring-boot-message-converter](./玩转SpringBoot系列案例源码/spring-boot-message-converter)：Spring Boot 基础开发之消息转换器案例
-- [spring-boot-jdbc](./SpringBoot入门案例源码/spring-boot-jdbc)：Spring Boot 连接数据库以及在 Spring Boot 项目中操作数据库
-- [spring-boot-druid](./玩转SpringBoot系列案例源码/spring-boot-druid)：Spring Boot 中使用自定义 Druid 数据源案例
-- [spring-boot-mybatis](./SpringBoot入门案例源码/spring-boot-mybatis)：Spring Boot 整合 MyBatis 操作数据库案例
-- [spring-boot-transaction](./玩转SpringBoot系列案例源码/spring-boot-transaction)：Spring Boot 中的事务处理案例
-- [spring-boot-redis](./玩转SpringBoot系列案例源码/spring-boot-redis)：Spring Boot 整合 Redis 操作缓存模块
-- [spring-boot-schedule](./玩转SpringBoot系列案例源码/spring-boot-schedule)：Spring Boot 项目开发之@Scheduled实现定时任务案例
-- [spring-boot-quartz](./玩转SpringBoot系列案例源码/spring-boot-quartz)：Spring Boot 项目开发之Quartz定时任务案例
-- [spring-boot-error-page](./玩转SpringBoot系列案例源码/spring-boot-error-page)：Spring Boot 自定义错误页面案例
-- [spring-boot-swagger](./玩转SpringBoot系列案例源码/spring-boot-swagger)：Spring Boot 集成 Swagger 生成接口文档案例
-- [spring-boot-file-upload](./SpringBoot入门案例源码/spring-boot-file-upload)：Spring Boot 处理文件上传及路径回显
-- [spring-boot-RESTful-api](./SpringBoot入门案例源码/spring-boot-RESTful-api) ：Spring Boot 项目实践之 RESTful API 设计与实现
-- [spring-boot-web-jsp](./玩转SpringBoot系列案例源码/spring-boot-web-jsp) ：Spring Boot 整合 JSP 开发 web 项目
-- [spring-boot-web-thymeleaf](./玩转SpringBoot系列案例源码/spring-boot-web-thymeleaf) ：Spring Boot 整合 Thymeleaf 案例
-- [spring-boot-web-thymeleaf-syntax](./玩转SpringBoot系列案例源码/spring-boot-web-thymeleaf-syntax) ：Thymeleaf 语法详解
-- [spring-boot-web-freemarker](./玩转SpringBoot系列案例源码/spring-boot-web-freemarker) ：Spring Boot 整合 FreeMarker 案例
-- [spring-boot-admin](./玩转SpringBoot系列案例源码/spring-boot-admin) ：Spring Boot Admin 整合使用案例
+- [spring-boot-hello](./SpringBoot入门案例源码/spring-boot-helloworld) : Spring Boot’s first case code
+- [spring-boot-logging](./玩转SpringBoot系列案例源码/spring-boot-logging) : Spring Boot basic development log output case
+- [spring-boot-test](./玩转SpringBoot系列案例源码/spring-boot-test) : Unit test case for Spring Boot basic development
+- [spring-boot-static-resources](./SpringBoot入门案例源码/spring-boot-static-resources) : Spring Boot basic development static resource processing case
+- [spring-boot-ajax](./SpringBoot入门案例源码/spring-boot-ajax) : Spring Boot project practice Ajax technology usage tutorial
+- [spring-boot-message-converter](./玩转SpringBoot系列案例源码/spring-boot-message-converter) : Spring Boot basic development message converter case
+- [spring-boot-jdbc](./SpringBoot入门案例源码/spring-boot-jdbc) : Spring Boot connects to the database and operates the database in the Spring Boot project
+- [spring-boot-druid](./玩转SpringBoot系列案例源码/spring-boot-druid) : Case of using custom Druid data source in Spring Boot
+- [spring-boot-mybatis](./SpringBoot入门案例源码/spring-boot-mybatis) : Spring Boot integrates MyBatis operation database case
+- [spring-boot-transaction](./玩转SpringBoot系列案例源码/spring-boot-transaction) : Transaction processing case in Spring Boot
+- [spring-boot-redis](./玩转SpringBoot系列案例源码/spring-boot-redis) : Spring Boot integrates Redis operation caching module
+- [spring-boot-schedule](./玩转SpringBoot系列案例源码/spring-boot-schedule) : Spring Boot project development @Scheduled implementation of scheduled tasks case
+- [spring-boot-quartz](./玩转SpringBoot系列案例源码/spring-boot-quartz) : Quartz scheduled task case developed by Spring Boot project
+- [spring-boot-error-page](./玩转SpringBoot系列案例源码/spring-boot-error-page) : Spring Boot custom error page case
+- [spring-boot-swagger](./玩转SpringBoot系列案例源码/spring-boot-swagger) : Spring Boot integrates Swagger to generate interface document cases
+- [spring-boot-file-upload](./SpringBoot入门案例源码/spring-boot-file-upload) : Spring Boot handles file upload and path echoing
+- [spring-boot-RESTful-api](./SpringBoot入门案例源码/spring-boot-RESTful-api) : RESTful API design and implementation of Spring Boot project practice
+- [spring-boot-web-jsp](./玩转SpringBoot系列案例源码/spring-boot-web-jsp) : Spring Boot integrates JSP to develop web projects
+- [spring-boot-web-thymeleaf](./玩转SpringBoot系列案例源码/spring-boot-web-thymeleaf) : Spring Boot integration Thymeleaf case
+- [spring-boot-web-thymeleaf-syntax](./玩转SpringBoot系列案例源码/spring-boot-web-thymeleaf-syntax) : Detailed explanation of Thymeleaf syntax
+- [spring-boot-web-freemarker](./玩转SpringBoot系列案例源码/spring-boot-web-freemarker) : Spring Boot integration FreeMarker case
+- [spring-boot-admin](./玩转SpringBoot系列案例源码/spring-boot-admin) : Spring Boot Admin integration use case
 
-这些案例主要是为了让大家能够掌握 Spring Boot 的开发和使用，旨在让读者更加熟悉 Spring Boot 及企业开发中需要注意的事项并具有使用 Spring Boot 技术进行大部分企业项目功能开发的能力。
+These cases are mainly to enable everyone to master the development and use of Spring Boot. They are designed to make readers more familiar with Spring Boot and matters that need to be paid attention to in enterprise development, and to have the ability to use Spring Boot technology to develop most enterprise project functions.
 
-关注公众号：**程序员十三**，回复"勾搭"进群交流。
+Follow the public account: Programmer Thirteen , reply "Hookup" to join the group communication.
 
 ![wx-gzh](https://newbee-mall.oss-cn-beijing.aliyuncs.com/wx-gzh/%E7%A8%8B%E5%BA%8F%E5%91%98%E5%8D%81%E4%B8%89-%E5%85%AC%E4%BC%97%E5%8F%B7.png)
 
 ---
 
-## 开发文档
+## Development documentation
 
-### 《SpringBoot + Mybatis + Thymeleaf 搭建美观实用的个人博客》
+### SpringBoot + Mybatis + Thymeleaf build a beautiful and practical personal blog
 
 [![lesson-03](https://newbee-mall.oss-cn-beijing.aliyuncs.com/poster/store/lesson-03.png)](https://www.lanqiao.cn/courses/1367)
+[EXTERNAL LINK](https://www.lanqiao.cn/courses/1367)
 
-- [**第01课：Spring Boot 搭建简洁实用的个人博客系统导读**](https://www.lanqiao.cn/courses/1367)
-- [第02课：快速构建 Spring Boot 应用](https://www.lanqiao.cn/courses/1367)
-- [第03课：Spring Boot 项目开发之web项目开发讲解](https://www.lanqiao.cn/courses/1367)
-- [第04课：Spring Boot 整合 Thymeleaf 模板引擎](https://www.lanqiao.cn/courses/1367)
-- [第05课：Spring Boot 处理文件上传及路径回显](https://www.lanqiao.cn/courses)
-- [第06课：Spring Boot 自动配置数据源及操作数据库](https://www.lanqiao.cn/courses/1367)
-- [第07课：Spring Boot 整合 MyBatis 操作数据库](https://www.lanqiao.cn/courses/1367)
-- [第08课：Mybatis-Generator 自动生成代码](https://www.lanqiao.cn/courses/1367)
-- [第09课：Spring Boot 中的事务处理](https://www.lanqiao.cn/courses/1367)
-- [第10课：Spring Boot 项目实践之 Ajax 技术使用教程](https://www.lanqiao.cn/courses/1367)
-- [第11课：Spring Boot 项目实践之  RESTful API 设计与实现](https://www.lanqiao.cn/courses/1367)
-- [第12课：Spring Boot 博客系统项目开发之分页功能实现](https://www.lanqiao.cn/courses/1367)
-- [第13课：Spring Boot 博客系统项目开发之验证码功能](https://www.lanqiao.cn/courses/1367)
-- [第14课：Spring Boot 博客系统项目开发之登录模块实现](https://www.lanqiao.cn/courses/1367)
-- [第15课：Spring Boot 博客系统项目开发之登陆拦截器](https://www.lanqiao.cn/courses/1367)
-- [第16课：Spring Boot 博客系统项目开发之分类功能实现](https://www.lanqiao.cn/courses/1367)
-- [第17课：Spring Boot 博客系统项目开发之标签功能实现](https://www.lanqiao.cn/courses/1367)
-- [第18课：Spring Boot 博客系统项目开发之文章编辑功能](https://www.lanqiao.cn/courses/1367)
-- [第19课：Spring Boot 博客系统项目开发之文章编辑完善](https://www.lanqiao.cn/courses/1367)
-- [第20课：Spring Boot 博客系统项目开发之文章模块实现](https://www.lanqiao.cn/courses/1367)
-- [第21课：Spring Boot 博客系统项目开发之友链模块实现](https://www.lanqiao.cn/courses/1367)
-- [第22课：Spring Boot 博客系统项目开发之网站首页制作](https://www.lanqiao.cn/courses/1367)
-- [第23课：Spring Boot 博客系统项目开发之分页及侧边栏制作](https://www.lanqiao.cn/courses/1367)
-- [第24课：Spring Boot 博客系统项目开发之搜索页面制作](https://www.lanqiao.cn/courses/1367)
-- [第25课：Spring Boot 博客系统项目开发之文章详情页制作](https://www.lanqiao.cn/courses/1367)
-- [第26课：Spring Boot 博客系统项目开发之错误页面制作](https://www.lanqiao.cn/courses/1367)
-- [第27课：Spring Boot 博客系统项目开发之评论功能实现](https://www.lanqiao.cn/courses/1367)
-- [第28课：Spring Boot 博客系统项目开发之项目打包部署](https://www.lanqiao.cn/courses/1367)
+- Lesson 01: Introduction to building a simple and practical personal blog system with Spring Boot
+- Lesson 02: Quickly Build Spring Boot Applications
+- Lesson 03: Spring Boot project development and web project development explanation
+- Lesson 04: Spring Boot integrates Thymeleaf template engine
+- Lesson 05: Spring Boot handles file upload and path echo
+- Lesson 06: Spring Boot automatically configures data sources and operates databases
+- Lesson 07: Spring Boot integrates MyBatis to operate the database
+- Lesson 08: Mybatis-Generator automatically generates code
+- Lesson 09: Transaction processing in Spring Boot
+- Lesson 10: Spring Boot Project Practice Ajax Technology Usage Tutorial
+- Lesson 11: RESTful API design and implementation in Spring Boot project practice
+- Lesson 12: Implementation of paging function in Spring Boot blog system project development
+- Lesson 13: Verification code function in Spring Boot blog system project development
+- Lesson 14: Login module implementation for Spring Boot blog system project development
+- Lesson 15: Login interceptor for Spring Boot blog system project development
+- Lesson 16: Implementation of classification function in Spring Boot blog system project development
+- Lesson 17: Implementation of tag function in Spring Boot blog system project development
+- Lesson 18: Article editing function in Spring Boot blog system project development
+- Lesson 19: Article editing and improvement for Spring Boot blog system project development
+- Lesson 20: Implementation of article module for Spring Boot blog system project development
+- Lesson 21: Implementation of Friend Chain Module for Spring Boot Blog System Project Development
+- Lesson 22: Website homepage production for Spring Boot blog system project development
+- Lesson 23: Pagination and sidebar production for Spring Boot blog system project development
+- Lesson 24: Search page production for Spring Boot blog system project development
+- Lesson 25: Spring Boot Blog System Project Development Article Details Page Production
+- Lesson 26: Error page production for Spring Boot blog system project development
+- Lesson 27: Implementation of comment function in Spring Boot blog system project development
+- Lesson 28: Project packaging and deployment of Spring Boot blog system project development
 
-### 《SpringBoot + Mybatis + Thymeleaf 开发 BBS 论坛项目》
+### SpringBoot + Mybatis + Thymeleaf develops BBS forum project
 
 [![lesson-11](https://newbee-mall.oss-cn-beijing.aliyuncs.com/poster/store/lesson-11.png)](https://www.shiyanlou.com/courses/4830)
+[EXTERNAL LINK](https://www.shiyanlou.com/courses/4830)
 
-- [**第01课：Spring Boot 技术栈详解**](https://www.shiyanlou.com/courses/4830)
-- [第02课：快速构建 Spring Boot 应用](https://www.shiyanlou.com/courses/4830)
-- [第03课：Spring Boot 项目开发之Web项目开发讲解](https://www.shiyanlou.com/courses/4830)
-- [第04课：Spring Boot 整合 Thymeleaf 模板引擎](https://www.shiyanlou.com/courses/4830)
-- [第05课：Thymeleaf 语法详解](https://www.shiyanlou.com/courses/4830)
-- [第06课：Spring Boot 自动配置数据源及操作数据库](https://www.shiyanlou.com/courses/4830)
-- [第07课：Spring Boot 整合 MyBatis 操作数据库](https://www.shiyanlou.com/courses/4830)
-- [第08课：分页功能的设计与实现](https://www.shiyanlou.com/courses/4830)
-- [第09课：BBS论坛项目开发之验证码功能](https://www.shiyanlou.com/courses/4830)
-- [第10课：BBS论坛项目开发之前端技术选型及源码目录详解](https://www.shiyanlou.com/courses/4830)
-- [第11课：BBS论坛项目开发之用户注册模块实现](https://www.shiyanlou.com/courses/4830)
-- [第12课：BBS论坛项目开发之用户登录模块实现](https://www.shiyanlou.com/courses/4830)
-- [第13课：BBS论坛项目开发之用户登录拦截器](https://www.shiyanlou.com/courses/4830)
-- [第14课：BBS论坛项目实战之处理文件上传及路径回显](https://www.shiyanlou.com/courses/4830)
-- [第15课：BBS论坛项目实战之个人中心页面制作](https://www.shiyanlou.com/courses/4830)
-- [第16课：富文本编辑器 wangEditor 整合](https://www.shiyanlou.com/courses/4830)
-- [第17课：BBS论坛项目实战之论坛首页开发](https://www.shiyanlou.com/courses/4830)
-- [第18课：BBS论坛项目实战之帖子发布功能开发](https://www.shiyanlou.com/courses/4830)
-- [第19课：BBS论坛项目实战之帖子详情和修改功能开发](https://www.shiyanlou.com/courses/4830)
-- [第20课：BBS论坛项目实战之评论功能开发](https://www.shiyanlou.com/courses/4830)
+- Lesson 01: Detailed explanation of Spring Boot technology stack
+- Lesson 02: Quickly Build Spring Boot Applications
+- Lesson 03: Spring Boot project development and Web project development explanation
+- Lesson 04: Spring Boot integrates Thymeleaf template engine
+- Lesson 05: Detailed explanation of Thymeleaf syntax
+- Lesson 06: Spring Boot automatically configures data sources and operates databases
+- Lesson 07: Spring Boot integrates MyBatis to operate the database
+- Lesson 08: Design and implementation of paging function
+- Lesson 09: Verification code function in BBS forum project development
+- Lesson 10: Detailed explanation of front-end technology selection and source code directory for BBS forum project development
+- Lesson 11: Implementation of user registration module for BBS forum project development
+- Lesson 12: Implementation of user login module in BBS forum project development
+- Lesson 13: User login interceptor developed for BBS forum project
+- Lesson 14: BBS Forum Project Practical Processing File Upload and Path Echo
+- Lesson 15: BBS Forum Project Practical Development of Personal Center Page
+- Lesson 16: Rich text editor wangEditor integration
+- Lesson 17: BBS Forum Project Practical Forum Homepage Development
+- Lesson 18: BBS Forum Project Practical Post Publishing Function Development
+- Lesson 19: BBS Forum Project Practical Development of Post Details and Modification Functions
+- Lesson 20: Development of comment function in practical BBS forum project
 
-### 《Spring Boot 前后端分离项目实践》
+### Spring Boot front-end and back-end separation project practice
 
 [![lesson-01](https://newbee-mall.oss-cn-beijing.aliyuncs.com/poster/store/lesson-springboot3-01.png)](https://www.lanqiao.cn/courses/1244)
+[EXTERNAL LINK](https://www.lanqiao.cn/courses/1244)
 
-- [**开篇词：SpringBoot入门及前后端分离项目实践导读**](https://www.lanqiao.cn/courses/1244)
-- [第02课：快速认识 Spring Boot 技术栈](https://www.lanqiao.cn/courses/1244)
-- [第03课：开发环境搭建](https://www.lanqiao.cn/courses/1244)
-- [第04课：快速构建 Spring Boot 应用](https://www.lanqiao.cn/courses/1244)
-- [第05课：Spring Boot 之基础 web 功能开发](https://www.lanqiao.cn/courses)
-- [第06课：Spring Boot 之数据库连接操作](https://www.lanqiao.cn/courses/1244)
-- [第07课：Spring Boot 整合 MyBatis 操作数据库](https://www.lanqiao.cn/courses/1244)
-- [第08课：Spring Boot 处理文件上传及路径回显](https://www.lanqiao.cn/courses/1244)
-- [第09课：Spring Boot 项目实践之前后端分离详解](https://www.lanqiao.cn/courses/1244)
-- [第10课：Spring Boot 项目实践之 Ajax 技术使用教程](https://www.lanqiao.cn/courses/1244)
-- [第11课：Spring Boot 项目实践之  RESTful API 设计与实现](https://www.lanqiao.cn/courses/1244)
-- [第12课：Spring Boot 项目实践之登录模块实现](https://www.lanqiao.cn/courses/1244)
-- [第13课：Spring Boot 项目实践之分页功能实现](https://www.lanqiao.cn/courses/1244)
-- [第14课：Spring Boot 项目实践之 jqgrid 分页整合](https://www.lanqiao.cn/courses/1244)
-- [第15课：Spring Boot 项目实践之用户编辑功能实现](https://www.lanqiao.cn/courses/1244)
-- [第16课：Spring Boot 项目实践之用户管理模块实现](https://www.lanqiao.cn/courses/1244)
-- [第17课：Spring Boot 项目实践之图片管理模块](https://www.lanqiao.cn/courses/1244)
-- [第18课：Spring Boot 项目实践之信息管理模块实现](https://www.lanqiao.cn/courses/1244)
+- Opening words: Introduction to SpringBoot and practical introduction to front-end and back-end separation projects
+- Lesson 02: Quickly understand the Spring Boot technology stack
+- Lesson 03: Development environment setup
+- Lesson 04: Quickly Build Spring Boot Applications
+- Lesson 05: Basic web function development with Spring Boot
+- Lesson 06: Spring Boot database connection operation
+- Lesson 07: Spring Boot integrates MyBatis to operate the database
+- Lesson 08: Spring Boot handles file upload and path echo
+- Lesson 09: Detailed explanation of back-end separation before Spring Boot project practice
+- Lesson 10: Spring Boot Project Practice Ajax Technology Usage Tutorial
+- Lesson 11: RESTful API design and implementation in Spring Boot project practice
+- Lesson 12: Spring Boot project practice login module implementation
+- Lesson 13: Implementation of paging function in Spring Boot project practice
+- Lesson 14: Spring Boot project practice jqgrid paging integration
+- Lesson 15: Implementation of user editing function in Spring Boot project practice
+- Lesson 16: Spring Boot project practice user management module implementation
+- Lesson 17: Spring Boot Project Practice Image Management Module
+- Lesson 18: Implementation of information management module in Spring Boot project practice
 
-### 《25 个实验带你轻松玩转 Spring Boot》
+### 25 Experiments to Help You Easily Play with Spring Boot
 
 [![lesson-02](https://newbee-mall.oss-cn-beijing.aliyuncs.com/poster/store/lesson-springboot3-02.png)](https://www.lanqiao.cn/courses/1274)
+[EXTERNAL LINK](https://www.lanqiao.cn/courses/1274)
 
-- [**开篇词：《25 个实验带你轻松玩转 Spring Boot》导读**](https://www.lanqiao.cn/courses/1274)
-- [第02课：Spring Boot 项目开发环境搭建](https://www.lanqiao.cn/courses/1274)
-- [第03课：快速构建 Spring Boot 应用](https://www.lanqiao.cn/courses/1274)
-- [第04课：Spring Boot 基础功能开发](https://www.lanqiao.cn/courses/1274)
-- [第05课：Spring Boot 项目开发之 web 项目开发讲解](https://www.lanqiao.cn/courses/1274)
-- [第06课：Spring Boot 整合 JSP 开发 web 项目](https://www.lanqiao.cn/courses/1274)
-- [第07课：模板引擎介绍及 Spring Boot 整合 Thymeleaf](https://www.lanqiao.cn/courses/1274)
-- [第08课：Thymeleaf 语法详解](https://www.lanqiao.cn/courses/1274)
-- [第09课：FreeMarker 模板引擎整合使用教程](https://www.lanqiao.cn/courses/1274)
-- [第10课：Spring Boot 处理文件上传及路径回显](https://www.lanqiao.cn/courses/1274)
-- [第11课：Spring Boot 自动配置数据源及操作数据库](https://www.lanqiao.cn/courses/1274)
-- [第12课：Spring Boot 整合 Druid 数据源](https://www.lanqiao.cn/courses/1274)
-- [第13课：Spring Boot 整合 MyBatis 操作数据库](https://www.lanqiao.cn/courses/1274)
-- [第14课：Spring Boot 中的事务处理](https://www.lanqiao.cn/courses/1274)
-- [第15课：Spring Boot 整合 Redis 操作缓存模块](https://www.lanqiao.cn/courses/1274)
-- [第16课：Spring Boot 项目开发之实现定时任务](https://www.lanqiao.cn/courses/1274)
-- [第17课：Spring Boot 自定义错误页面](https://www.lanqiao.cn/courses/1274)
-- [第18课：Spring Boot 集成 Swagger 生成接口文档](https://www.lanqiao.cn/courses/1274)
-- [第19课：Spring Boot 项目打包部署介绍](https://www.lanqiao.cn/courses/1274)
-- [第20课：Spring Boot Admin 介绍及整合使用](https://www.lanqiao.cn/courses/1274)
-- [第21课：Spring Boot 资讯管理信息系统开发实战(一)](https://www.lanqiao.cn/courses/1274)
-- [第22课：Spring Boot 资讯管理信息系统开发实战(二)](https://www.lanqiao.cn/courses/1274)
-- [第23课：Spring Boot 资讯管理信息系统开发实战(三)](https://www.lanqiao.cn/courses/1274)
-- [第24课：Spring Boot 资讯管理信息系统开发实战(四)](https://www.lanqiao.cn/courses/1274)
+- Opening words: Introduction to "25 Experiments to Help You Easily Play with Spring Boot"
+- Lesson 02: Spring Boot project development environment setup
+- Lesson 03: Quickly Build Spring Boot Applications
+- Lesson 04: Spring Boot basic function development
+- Lesson 05: Spring Boot project development - web project development explanation
+- Lesson 06: Spring Boot integrates JSP to develop web projects
+- Lesson 07: Introduction to template engines and Spring Boot integration with Thymeleaf
+- Lesson 08: Detailed explanation of Thymeleaf syntax
+- Lesson 09: FreeMarker template engine integration tutorial
+- Lesson 10: Spring Boot handles file upload and path echo
+- Lesson 11: Spring Boot automatically configures data sources and operates databases
+- Lesson 12: Spring Boot integrates Druid data sources
+- Lesson 13: Spring Boot integrates MyBatis to operate the database
+- Lesson 14: Transaction processing in Spring Boot
+- Lesson 15: Spring Boot integrates Redis operation cache module
+- Lesson 16: Implementing scheduled tasks in Spring Boot project development
+- Lesson 17: Spring Boot Custom Error Pages
+- Lesson 18: Spring Boot integrates Swagger to generate interface documents
+- Lesson 19: Introduction to Spring Boot project packaging and deployment
+- Lesson 20: Introduction and integrated use of Spring Boot Admin
+- Lesson 21: Practical development of Spring Boot information management information system (1)
+- Lesson 22: Practical development of Spring Boot information management information system (2)
+- Lesson 23: Practical development of Spring Boot information management information system (3)
+- Lesson 24: Practical development of Spring Boot information management information system (4)
 
 ---
 
-## 交流
+## comminicate (sic)
 
-> 大家有任何问题或者建议都可以在 [issues](https://github.com/ZHENFENG13/spring-boot-projects/issues) 中反馈给我，我会慢慢完善这个 Spring Boot 仓库。
+> If you have any questions or suggestions, you can give me feedback in [issues](https://github.com/ZHENFENG13/spring-boot-projects/issues), and I will slowly improve this Spring Boot repository.
 
-- 我的邮箱：2449207463@qq.com
-- QQ技术交流群：719099151 784785001
+- My email：2449207463@qq.com
+- QQ technical exchange group：719099151 784785001
