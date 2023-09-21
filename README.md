@@ -1,23 +1,35 @@
 # Spring Boot Projects
 
-该仓库中主要是 Spring Boot 的入门学习教程以及一些常用的 Spring Boot 实战项目教程，包括 Spring Boot 使用的各种示例代码，同时也包括一些实战项目的项目源码和效果展示，实战项目包括基本的 Web 开发以及目前大家普遍使用的前后端分离实践项目等，后续会根据大家的反馈继续增加一些实战项目源码，摆脱各种 Hello World 入门案例的束缚，真正的掌握 Spring Boot 开发。
+This warehouse mainly contains introductory learning tutorials for Spring Boot and some common Spring Boot practical project tutorials, including various sample codes used by Spring Boot. It also includes project source code and effect demonstrations of some practical projects. Practical projects include basic Web Development and currently commonly used front-end and back-end separation practical projects, etc. We will continue to add some practical project source codes based on everyone's feedback in the future, get rid of the constraints of various Hello World entry cases, and truly master Spring Boot development.
 
-实战项目源码都已升级至 Spring Boot 3.x 版本，本仓库中的 Spring Boot 入门案例也已经升级至 Spring Boot 3.x 版本，Java 最低版本要求为 17，请知悉，想要学习和使用 Spring Boot 2.x 版本请自行切换分支。。
+The actual project source code has been upgraded to Spring Boot 3.x version. The Spring Boot introductory case in this warehouse has also been upgraded to Spring Boot 3.x version. The minimum Java version requirement is 17. Please know that if you want to learn and use Spring Boot For version 2.x, please switch branches yourself. .
 
-## 项目导航
+## Project navigation
 
-[Spring Boot 入门小案例](./SpringBoot入门案例源码)&nbsp;|&nbsp;[Spring Boot 入门小案例](./SpringBoot入门案例源码)&nbsp;|&nbsp;[Spring Boot 整合案例系列2](./玩转SpringBoot系列案例源码)&nbsp;|&nbsp;[Spring Boot 前后端分离项目实践](./SpringBoot前后端分离实战项目源码)&nbsp;|&nbsp;[Spring Boot 咨询发布系统项目实践](./SpringBoot咨询发布系统实战项目源码) &nbsp;| &nbsp;[Spring Boot + Mybatis + Thymeleaf 实现的开源博客系统](https://github.com/ZHENFENG13/My-Blog)&nbsp;|&nbsp;[Spring Boot + Mybatis + Thymeleaf 实现的 BBS 论坛系统](https://github.com/ZHENFENG13/My-BBS)&nbsp;|&nbsp;[Spring Boot + Mybatis + Thymeleaf 仿知乎专栏项目](https://github.com/ZHENFENG13/My-Column)&nbsp;|&nbsp;[Spring Boot + layui 实现的后台管理系统](https://github.com/ZHENFENG13/My-Blog-layui) &nbsp;| &nbsp;[Spring Boot 大型商城项目实践](https://github.com/newbee-ltd/newbee-mall)&nbsp;| &nbsp;[Spring Boot + Vue 前后端分离商城项目](https://github.com/newbee-ltd/newbee-mall-vue-app)&nbsp;| &nbsp;[Spring Boot + Vue3 前后端分离商城项目](https://github.com/newbee-ltd/newbee-mall-vue3-app)&nbsp;| &nbsp;[Github地址](https://github.com/ZHENFENG13/spring-boot-projects) &nbsp;| &nbsp;[码云 Gitee 地址](https://gitee.com/zhenfeng13/spring-boot-projects)
+   &nbsp;[Spring Boot introductory small case](./SpringBoot入门案例源码)&nbsp;
+ | &nbsp;[Spring Boot integration case series 2](./玩转SpringBoot系列案例源码)&nbsp;
+ | &nbsp;[Spring Boot front-end and back-end separation project practice](./SpringBoot前后端分离实战项目源码)&nbsp;
+ | &nbsp;[Spring Boot consulting and publishing system project practice](./SpringBoot咨询发布系统实战项目源码) &nbsp;
+ | &nbsp;[Spring Boot + Mybatis + Thymeleaf implemented open source blog system](https://github.com/ZHENFENG13/My-Blog)&nbsp;
+ | &nbsp;[Spring Boot + BBS forum system implemented by Mybatis + Thymeleaf](https://github.com/ZHENFENG13/My-BBS)&nbsp;
+ | &nbsp;[Spring Boot + Mybatis + Thymeleaf imitation Zhihu column project](https://github.com/ZHENFENG13/My-Column)&nbsp;
+ | &nbsp;[Backend management system implemented by Spring Boot + layui](https://github.com/ZHENFENG13/My-Blog-layui) &nbsp;
+ | &nbsp;[Spring Boot large-scale mall project practice](https://github.com/newbee-ltd/newbee-mall)&nbsp;
+ | &nbsp;[Spring Boot + Vue front-end and back-end separation mall project](https://github.com/newbee-ltd/newbee-mall-vue-app)&nbsp;
+ | &nbsp;[Spring Boot + Vue3 front-end and back-end separation mall project](https://github.com/newbee-ltd/newbee-mall-vue3-app)&nbsp;
+ | &nbsp;[Github address](https://github.com/ZHENFENG13/spring-boot-projects) &nbsp;
+ | &nbsp;[Code Cloud Gitee address](https://gitee.com/zhenfeng13/spring-boot-projects)
 
 ---
 
-#### 项目演示
+#### Project demonstration
 
-- [Spring Boot 前后端分离项目预览](https://www.bilibili.com/video/av52551579)
-- [Spring Boot 咨询发布系统项目预览](https://www.bilibili.com/video/av52551450)
-- [Spring Boot 开源博客系统预览](https://www.bilibili.com/video/av52551095)
-- [Spring Boot 商城项目总览](https://edu.csdn.net/course/play/26258/326466)
-- [Spring Boot 商城系统介绍](https://edu.csdn.net/course/play/26258/326467)
-- [Spring Boot 商城后台管理系统介绍](https://edu.csdn.net/course/play/26258/328801)
+- [Spring Boot front-end and back-end separation project preview](https://www.bilibili.com/video/av52551579)
+- [Spring Boot consulting publishing system project preview](https://www.bilibili.com/video/av52551450)
+- [Spring Boot open source blog system preview](https://www.bilibili.com/video/av52551095)
+- [Spring Boot Mall Project Overview](https://edu.csdn.net/course/play/26258/326466)
+- [Introduction to Spring Boot Mall System](https://edu.csdn.net/course/play/26258/326467)
+- [Introduction to Spring Boot mall backend management system](https://edu.csdn.net/course/play/26258/328801)
 
 ---
 
