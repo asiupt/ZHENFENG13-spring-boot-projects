@@ -2,13 +2,13 @@
 
 The Spring Boot entry code can be directly downloaded to be edited and used locally.
 
-- [spring-boot-hello](https://github.com/ZHENFENG13/spring-boot-projects/tree/master/SpringBoot entry case source code/spring-boot-helloworld): Spring Boot’s first case code
-- [spring-boot-static-resources](https://github.com/ZHENFENG13/spring-boot-projects/tree/master/SpringBoot entry case source code/spring-boot-static-resources): Spring Boot basic development Static resource processing case
-- [spring-boot-ajax](https://github.com/ZHENFENG13/spring-boot-projects/tree/master/SpringBoot entry case source code/spring-boot-ajax): Spring Boot project practice Ajax technology usage tutorial
-- [spring-boot-jdbc](https://github.com/ZHENFENG13/spring-boot-projects/tree/master/SpringBoot entry case source code/spring-boot-jdbc): Spring Boot connects to the database and in the Spring Boot project Operating database in
-- [spring-boot-mybatis](https://github.com/ZHENFENG13/spring-boot-projects/tree/master/SpringBoot entry case source code/spring-boot-mybatis): Spring Boot integration MyBatis operation database case
-- [spring-boot-file-upload](https://github.com/ZHENFENG13/spring-boot-projects/tree/master/SpringBoot entry case source code/spring-boot-file-upload): Spring Boot handles file uploads and path echo
-- [spring-boot-RESTful-api](https://github.com/ZHENFENG13/spring-boot-projects/tree/master/SpringBoot entry case source code/spring-boot-RESTful-api): Spring Boot project practice RESTful API design and implementation
+- [spring-boot-hello](https://github.com/ZHENFENG13/spring-boot-projects/tree/master/SpringBootEntryCase/spring-boot-helloworld): Spring Boot’s first case code
+- [spring-boot-static-resources](https://github.com/ZHENFENG13/spring-boot-projects/tree/master/SpringBootEntryCase/spring-boot-static-resources): Spring Boot basic development Static resource processing case
+- [spring-boot-ajax](https://github.com/ZHENFENG13/spring-boot-projects/tree/master/SpringBootEntryCase/spring-boot-ajax): Spring Boot project practice Ajax technology usage tutorial
+- [spring-boot-jdbc](https://github.com/ZHENFENG13/spring-boot-projects/tree/master/SpringBootEntryCase/spring-boot-jdbc): Spring Boot connects to the database and in the Spring Boot project Operating database in
+- [spring-boot-mybatis](https://github.com/ZHENFENG13/spring-boot-projects/tree/master/SpringBootEntryCase/spring-boot-mybatis): Spring Boot integration MyBatis operation database case
+- [spring-boot-file-upload](https://github.com/ZHENFENG13/spring-boot-projects/tree/master/SpringBootEntryCase/spring-boot-file-upload): Spring Boot handles file uploads and path echo
+- [spring-boot-RESTful-api](https://github.com/ZHENFENG13/spring-boot-projects/tree/master/SpringBootEntryCase/spring-boot-RESTful-api): Spring Boot project practice RESTful API design and implementation
 
 
 ## Course Introduction
