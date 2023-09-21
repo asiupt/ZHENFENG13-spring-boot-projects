@@ -87,6 +87,7 @@ Follow the public account: Programmer Thirteen , reply "Hookup" to join the grou
 ### SpringBoot + Mybatis + Thymeleaf build a beautiful and practical personal blog
 
 [![lesson-03](https://newbee-mall.oss-cn-beijing.aliyuncs.com/poster/store/lesson-03.png)](https://www.lanqiao.cn/courses/1367)
+
 [EXTERNAL LINK](https://www.lanqiao.cn/courses/1367)
 
 - Lesson 01: Introduction to building a simple and practical personal blog system with Spring Boot
@@ -121,6 +122,7 @@ Follow the public account: Programmer Thirteen , reply "Hookup" to join the grou
 ### SpringBoot + Mybatis + Thymeleaf develops BBS forum project
 
 [![lesson-11](https://newbee-mall.oss-cn-beijing.aliyuncs.com/poster/store/lesson-11.png)](https://www.shiyanlou.com/courses/4830)
+
 [EXTERNAL LINK](https://www.shiyanlou.com/courses/4830)
 
 - Lesson 01: Detailed explanation of Spring Boot technology stack
@@ -147,6 +149,7 @@ Follow the public account: Programmer Thirteen , reply "Hookup" to join the grou
 ### Spring Boot front-end and back-end separation project practice
 
 [![lesson-01](https://newbee-mall.oss-cn-beijing.aliyuncs.com/poster/store/lesson-springboot3-01.png)](https://www.lanqiao.cn/courses/1244)
+
 [EXTERNAL LINK](https://www.lanqiao.cn/courses/1244)
 
 - Opening words: Introduction to SpringBoot and practical introduction to front-end and back-end separation projects
@@ -171,6 +174,7 @@ Follow the public account: Programmer Thirteen , reply "Hookup" to join the grou
 ### 25 Experiments to Help You Easily Play with Spring Boot
 
 [![lesson-02](https://newbee-mall.oss-cn-beijing.aliyuncs.com/poster/store/lesson-springboot3-02.png)](https://www.lanqiao.cn/courses/1274)
+
 [EXTERNAL LINK](https://www.lanqiao.cn/courses/1274)
 
 - Opening words: Introduction to "25 Experiments to Help You Easily Play with Spring Boot"
