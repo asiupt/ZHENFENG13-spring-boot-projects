@@ -17,46 +17,48 @@ Vue3 + Vite + Vue-Router + Element-Plus + Echarts + Axios backend management sys
 
 ## Development and deployment documentation
 
-- [Opening words: Clear Vue3 enterprise-level project development, get promotion and salary increase faster](https://juejin.cn/book/6933939264455442444)
-- [Project instructions and course agreements](https://juejin.cn/book/6933939264455442444)
-- [The general trend: "front-end and back-end separation" development model](https://juejin.cn/book/6933939264455442444)
-- [Vue3 Introduction and Development Environment Construction](https://juejin.cn/book/6933939264455442444)
-- [A brief analysis of Vue3 combination API entrance Setup](https://juejin.cn/book/6933939264455442444)
-- [Vue3 Responsive System API](https://juejin.cn/book/6933939264455442444)
-- [Vue3 life cycle hook function, providing injection](https://juejin.cn/book/6933939264455442444)
-- [Vue3 performance and business level improvements](https://juejin.cn/book/6933939264455442444)
-- [Vite2 principle analysis and simple plug-in writing](https://juejin.cn/book/6933939264455442444)
-- [Vue-Router4 usage and routing principles](https://juejin.cn/book/6933939264455442444)
-- [Vue3 Practical Project Startup](https://juejin.cn/book/6933939264455442444)
-- [Back-end API development technology selection: Spring Boot](https://juejin.cn/book/6933939264455442444)
-- [Back-end basic operating environment and development tool preparation](https://juejin.cn/book/6933939264455442444)
-- [Spring Boot project construction and quick start](https://juejin.cn/book/6933939264455442444)
-- [Spring Boot Practice Web Function Development](https://juejin.cn/book/6933939264455442444)
-- [Spring Boot Practice File Upload Processing](https://juejin.cn/book/6933939264455442444)
-- [Spring Boot practice integrating MyBatis operation database](https://juejin.cn/book/6933939264455442444)
-- [Spring Boot Practice Integration Lombok](https://juejin.cn/book/6933939264455442444)
-- [Spring Boot practice integrating Swagger to generate interface documents](https://juejin.cn/book/6933939264455442444)
-- [Notes on starting and running back-end API projects](https://juejin.cn/book/6933939264455442444)
-- [Interface parameter processing and unified response results](https://juejin.cn/book/6933939264455442444)
-- [API Interface Development Practical User Login Interface Development](https://juejin.cn/book/6933939264455442444)
-- [Detailed explanation of user identity authentication in practical API interface development](https://juejin.cn/book/6933939264455442444)
-- [API interface development practice: Carousel chart management module interface development](https://juejin.cn/book/6933939264455442444)
-- [API interface development practical product classification management module interface development](https://juejin.cn/book/6933939264455442444)
-- [API interface development practical product management module interface development](https://juejin.cn/book/6933939264455442444)
-- [API interface development practical product configuration management module interface development](https://juejin.cn/book/6933939264455442444)
-- [API interface development practical order management module interface development](https://juejin.cn/book/6933939264455442444)
-- [Four ways of front-end and back-end authentication](https://juejin.cn/book/6933939264455442444)
-- [Vite2 + Vue3 + Element-Plus build management backend project](https://juejin.cn/book/6933939264455442444)
-- [Vue3 practical management background left and right column layout](https://juejin.cn/book/6933939264455442444)
-- [Vue3 practical login authentication](https://juejin.cn/book/6933939264455442444)
-- [Vue3 actual home page market data](https://juejin.cn/book/6933939264455442444)
-- [Vue3 actual home page configuration](https://juejin.cn/book/6933939264455442444)
-- [Vue3 Practical Classification Management](https://juejin.cn/book/6933939264455442444)
-- [Vue3 Practical Product Management](https://juejin.cn/book/6933939264455442444)
-- [Vue3 Practical Order Management](https://juejin.cn/book/6933939264455442444)
-- [Vue3 Practical Member Management and Account Modification](https://juejin.cn/book/6933939264455442444)
-- [pm2 enables one-click deployment of cloud servers](https://juejin.cn/book/6933939264455442444)
-- [Summary and explanation of frequently asked questions](https://juejin.cn/book/6933939264455442444)
+[EXTERNAL LINK](https://juejin.cn/book/6933939264455442444)
+
+- Opening words: Clear Vue3 enterprise-level project development, get promotion and salary increase faster.
+- Project instructions and course agreements.
+- The general trend: "front-end and back-end separation" development model.
+- Vue3 Introduction and Development Environment Construction.
+- A brief analysis of Vue3 combination API entrance Setup.
+- Vue3 Responsive System API.
+- Vue3 life cycle hook function, providing injection.
+- Vue3 performance and business level improvements.
+- Vite2 principle analysis and simple plug-in writing.
+- Vue-Router4 usage and routing principles.
+- Vue3 Practical Project Startup.
+- Back-end API development technology selection: Spring Boot.
+- Back-end basic operating environment and development tool preparation.
+- Spring Boot project construction and quick start.
+- Spring Boot Practice Web Function Development.
+- Spring Boot Practice File Upload Processing.
+- Spring Boot practice integrating MyBatis operation database.
+- Spring Boot Practice Integration Lombok.
+- Spring Boot practice integrating Swagger to generate interface documents.
+- Notes on starting and running back-end API projects.
+- Interface parameter processing and unified response results.
+- API Interface Development Practical User Login Interface Development.
+- Detailed explanation of user identity authentication in practical API interface development.
+- API interface development practice: Carousel chart management module interface development.
+- API interface development practical product classification management module interface development.
+- API interface development practical product management module interface development.
+- API interface development practical product configuration management module interface development.
+- API interface development practical order management module interface development.
+- Four ways of front-end and back-end authentication.
+- Vite2 + Vue3 + Element-Plus build management backend project.
+- Vue3 practical management background left and right column layout.
+- Vue3 practical login authentication.
+- Vue3 actual home page market data.
+- Vue3 actual home page configuration.
+- Vue3 Practical Classification Management.
+- Vue3 Practical Product Management.
+- Vue3 Practical Order Management.
+- Vue3 Practical Member Management and Account Modification.
+- pm2 enables one-click deployment of cloud servers.
+- Summary and explanation of frequently asked questions.
 
 ## Contact the author
 
